@@ -53,13 +53,15 @@ const start = async () => {
 			} else if (text === 'Социальные сети') {
 				await bot.sendMessage(
 					chatId,
+					`https://batyrzem21.ru/`,
+				)
+				await bot.sendMessage(
+					chatId,
 					`https://vk.com/batyrzem21`,
-					menu
 				)
 				await bot.sendMessage(
 					chatId,
 					`https://ok.ru/batyrzem21`,
-					menu
 				)
 				return bot.sendMessage(
 					chatId,
