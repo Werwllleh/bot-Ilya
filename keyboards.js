@@ -17,7 +17,7 @@ module.exports = {
 	cats: {
 		reply_markup: {
 			keyboard: [
-				[{ text: 'Спорт' }, { text: 'Бизнес' }, { text: 'Культура' }],
+				[{ text: 'Спорт' }, { text: 'Бизнес' }],
 				[{ text: 'Культура и образование' }],
 				[{ text: 'Назад', }],
 			],
