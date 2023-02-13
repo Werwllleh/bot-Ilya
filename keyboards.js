@@ -8,7 +8,7 @@ module.exports = {
 	menu: {
 		reply_markup: {
 			keyboard: [
-				[{ text: 'Категории' }],
+				[{ text: 'Направления деятельности' }],
 				[{ text: 'Социальные сети' }],
 				[{ text: 'Сотрудничество' }],
 			],
