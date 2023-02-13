@@ -96,7 +96,7 @@ const start = async () => {
 					`@biz_batyrzem21`,
 					menu
 				)
-			} else if (text === 'Культура') {
+			} else if (text === 'Культура и образование') {
 				await bot.sendMessage(
 					chatId,
 					`Все о культурной жизни и творчестве уроженцев Батыревского района`,

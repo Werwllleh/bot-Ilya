@@ -18,6 +18,7 @@ module.exports = {
 		reply_markup: {
 			keyboard: [
 				[{ text: 'Спорт' }, { text: 'Бизнес' }, { text: 'Культура' }],
+				[{ text: 'Культура и образование' }],
 				[{ text: 'Назад', }],
 			],
 		}
